@@ -1,0 +1,28 @@
+name: '[B-MP]'
+favicon: null
+layout_spectrum: 0.6308534338604659
+typography_spectrum: 0.2917188508436084
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8406095642130822
+  lightness: 0.2188570920843631
+  saturation: 0.21958693535998464
+  rhythmicContrast: 0.9789783006999642
+purpose: []
